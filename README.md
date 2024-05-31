@@ -1,6 +1,5 @@
 # Django-React-Todo-App-with-Authentication-Hindi-
 
-# Django + React Todo App with Authentication (Hinglish)
 
 ## Prerequisites (Jarurat)
 
